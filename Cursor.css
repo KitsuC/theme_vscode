@@ -1,0 +1,8 @@
+.monaco-editor .cursor {
+    border-left: 2px solid transparent !important;
+    border-image: linear-gradient(to right top, #ffa400, #f00) !important;
+    border-image-slice: 1 !important;
+}
+/* .cursors-layer .cursor {
+    background-image: linear-gradient(245deg, #fcb564, #ff65f2, #d66efd) !important;
+} */
